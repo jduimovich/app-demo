@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
 - ../components/a-service/overlays/development
 - ../components/c1/overlays/development
+- ../components/http-app/overlays/development
